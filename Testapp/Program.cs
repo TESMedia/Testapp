@@ -16,6 +16,7 @@ namespace Testapp
             Console.WriteLine("Null");
 
             Console.WriteLine("Master");
+
         }
     }
 }
