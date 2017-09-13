@@ -10,7 +10,7 @@ namespace Testapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Null");
+            Console.WriteLine("Branc1");
         }
     }
 }
