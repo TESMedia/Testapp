@@ -12,10 +12,10 @@ namespace Testapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Master");
             var obj = Directory.GetDirectories("/www/root");
             Console.WriteLine("Null");
 
+            Console.WriteLine("Master");
         }
     }
 }
